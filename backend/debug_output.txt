@@ -1,0 +1,6 @@
+Connecting to database: sqlite:///./sql_app.db
+Listing last 5 responses in DB:
+ - ID: 2, CompanyID: 2, Created: 2026-02-12 22:57:09.180427
+ - ID: 1, CompanyID: 1, Created: 2026-02-12 22:49:03.668670
+Checking Response 503...
+Response 503 NOT FOUND in database.

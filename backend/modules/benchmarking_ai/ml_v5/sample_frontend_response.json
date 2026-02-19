@@ -1,0 +1,171 @@
+{
+    "status": "success",
+    "meta": {
+        "api_version": "v5.0",
+        "model_version": "ml_v5",
+        "generated_at": "2026-01-19T10:34:07Z",
+        "processing_time_ms": 268
+    },
+    "data": {
+        "company_profile": {
+            "company_id": 46,
+            "industry": "Technology",
+            "size": "50-200"
+        },
+        "assessment_results": {
+            "total_maturity_score": 3.26,
+            "dimension_scores": {
+                "Data Readiness & Literacy": 2.71,
+                "Governance & Compliance": 3.02,
+                "People & Culture": 3.48,
+                "Processes & Scaling": 3.58,
+                "Strategy & Business Vision": 2.99,
+                "Tech Infrastructure": 3.40,
+                "Use Cases & Business Value": 3.61
+            }
+        },
+        "ai_compass_intelligence": {
+            "cluster_segment": {
+                "id": 4,
+                "name": "The Operational Scaler",
+                "description": "Mid-to-high maturity. Strong operational capabilities with active use cases. Focus needed on governance and strategic alignment to sustain growth.",
+                "visualization": {
+                    "pca_coordinates": {
+                        "x": 0.234,
+                        "y": -0.156
+                    }
+                },
+                "industry_percentile": {
+                    "percentile_value": "82.26",
+                    "percentage": "82",
+                    "industry": "Logistics",
+                    "industry_sample_size": 62
+                }
+            },
+            "strategic_gap_analysis": {
+                "executive_briefing": {
+                    "summary": "Our analysis of your current AI maturity profile identifies two primary structural risks that require immediate executive attention.",
+                    "finding_1": {
+                        "title": "Critical Gap: Staff Proficiency",
+                        "severity_score": 11.2,
+                        "type": "Weakness",
+                        "context": "High Strategic Impact (3.5). Current Maturity: 1.8. Theme: Staff Proficiency.",
+                        "implication": "This suggests that your current organizational trajectory may be creating 'Strategic Debt'—where technical capabilities outpace leadership alignment or vice versa."
+                    },
+                    "finding_2": {
+                        "title": "Critical Gap: Leadership Alignment",
+                        "severity_score": 10.8,
+                        "type": "Weakness",
+                        "context": "High Strategic Impact (4.5). Current Maturity: 2.6. Theme: Leadership Alignment.",
+                        "implication": "Currently, this maturity level (10.8 impact score) acts as a significant bottleneck. Addressing this specific area will unlock higher ROI for your existing and future AI use cases."
+                    },
+                    "strategic_verdict": "Your profile shows high potential but is currently decoupled. Prioritizing these two areas over the next 3 months will transform your AI initiatives from experimental to scalable."
+                },
+                "detailed_findings": [
+                    {
+                        "type": "Weakness",
+                        "title": "Critical Gap: Staff Proficiency",
+                        "score": 11.2,
+                        "context": "High Strategic Impact (3.5). Current Maturity: 1.8. Theme: Staff Proficiency.",
+                        "dimension_name": "People & Culture",
+                        "tactical_theme": "Staff Proficiency"
+                    },
+                    {
+                        "type": "Weakness",
+                        "title": "Critical Gap: Leadership Alignment",
+                        "score": 10.8,
+                        "context": "High Strategic Impact (4.5). Current Maturity: 2.6. Theme: Leadership Alignment.",
+                        "dimension_name": "Strategy & Business Vision",
+                        "tactical_theme": "Leadership Alignment"
+                    }
+                ]
+            },
+            "transformation_roadmap": {
+                "briefing": "To ensure a sustainable and high-ROI journey into AI, we recommend a phased approach that prioritizes foundational stability before complex technical scaling.",
+                "phases": {
+                    "phase_1": {
+                        "name": "Foundation",
+                        "description": "Your first priority is Staff Proficiency, Leadership Alignment. By focusing here, we ensure that your organizational data and culture are robust enough to support automation without creating friction.",
+                        "recommendations": [
+                            {
+                                "theme": "Staff Proficiency",
+                                "source": "Strategic Gap (Critical)",
+                                "impact_score": 11.2,
+                                "dimension": "People & Culture",
+                                "explanation": "Your current Staff Proficiency capability (score: 3.5) is below the industry average (3.8). This 9% gap represents a critical bottleneck that limits your ability to scale AI initiatives effectively. Addressing this area will reduce implementation friction and accelerate time-to-value for AI projects."
+                            },
+                            {
+                                "theme": "Leadership Alignment",
+                                "source": "Strategic Gap (Critical)",
+                                "impact_score": 10.8,
+                                "dimension": "Strategy & Business Vision",
+                                "explanation": "Your current Leadership Alignment capability (score: 3.0) is below the industry average (3.5). This 17% gap represents a critical bottleneck that limits your ability to scale AI initiatives effectively. Addressing this area will reduce implementation friction and accelerate time-to-value for AI projects."
+                            }
+                        ]
+                    },
+                    "phase_2": {
+                        "name": "Implementation",
+                        "description": "Once the foundation is secure, we move to Strategic Priority. These areas have been identified as your highest-leverage opportunities, directly bridging the gap between your current status and the performance of industry leaders.",
+                        "recommendations": [
+                            {
+                                "theme": "Strategic Priority",
+                                "source": "Growth Opportunity",
+                                "impact_score": 10.8,
+                                "dimension": "Strategy & Business Vision",
+                                "explanation": "Companies at your target maturity level excel in Strategic Priority (peer average: 3.7 vs your 3.0). This represents a 23% opportunity gap. Investing here will help you match the performance of industry leaders and unlock new value creation opportunities."
+                            }
+                        ]
+                    },
+                    "phase_3": {
+                        "name": "Scale & Governance",
+                        "description": "The final phase focuses on Standardization. This is where we transition from single use-cases to an AI-driven operational model, ensuring long-term resilience and governance.",
+                        "recommendations": [
+                            {
+                                "theme": "Standardization",
+                                "source": "Growth Opportunity",
+                                "impact_score": 10.8,
+                                "dimension": "Processes & Scaling",
+                                "explanation": "Enhancing your Standardization capabilities will position you among top performers in your peer group. While your current score (3.6) is competitive, targeted improvements will differentiate your AI maturity and enable more sophisticated use cases."
+                            }
+                        ]
+                    }
+                },
+                "success_metric": "Completion of this roadmap will move your total maturity from its current level into the top 20% of your industry peer group."
+            },
+            "peer_benchmarking": {
+                "description": "Comparison against 'Next Level' peers (15-30% more mature)",
+                "peer_cohort_size": 12,
+                "peer_average_maturity": 3.85,
+                "chart_data": {
+                    "user_scores": [
+                        2.71,
+                        3.02,
+                        3.48,
+                        3.58,
+                        2.99,
+                        3.40,
+                        3.61
+                    ],
+                    "peer_average_scores": [
+                        3.15,
+                        3.45,
+                        3.95,
+                        3.80,
+                        3.50,
+                        3.75,
+                        3.90
+                    ],
+                    "labels": [
+                        "Data Readiness",
+                        "Governance",
+                        "People & Culture",
+                        "Processes",
+                        "Strategy",
+                        "Tech Infra",
+                        "Use Cases"
+                    ]
+                }
+            }
+        }
+    }
+}
