@@ -22,4 +22,4 @@ To update the application:
 3. The automation will restructure and push changes here, triggering a live deployment.
 
 ---
-© 2024-2025 AI Compass SME
+© 2026 AI Compass SME
